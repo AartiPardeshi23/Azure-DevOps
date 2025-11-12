@@ -46,7 +46,7 @@ By completing this module, you will be able to:
 
 ## 🧩 Pre-requisites
 
-- Azure DevOps account → [https://dev.azure.com](https://dev.azure.com)  
+- Azure DevOps account → [https://axe.dev.azure.com](https://axe.dev.azure.com)  
 - Organization admin or owner access  
 - GitHub account (for linking repositories)  
 - Basic knowledge of web navigation (no CLI required)
@@ -55,5 +55,6 @@ By completing this module, you will be able to:
 
 ## 🔗 Optional Lab Integration
 
-To practice Git integration, use this public repo:
+To practice Git integration, use this public repo
+
 
