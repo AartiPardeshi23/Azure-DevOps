@@ -12,10 +12,10 @@ so even beginners can follow along step-by-step.
 
 | File | Topic |
 |------|-------|
-| [01_Managing_Users_and_Permissions.md](01_Managing_Users_and_Permissions.md) | Add users, assign roles, and manage permissions |
-| [02_Configuring_Organization_Settings.md](02_Configuring_Organization_Settings.md) | Configure organization-level policies, billing, and service connections |
-| [03_Auditing_and_Monitoring.md](03_Auditing_and_Monitoring.md) | View audit logs, export activity, and monitor usage |
-| [04_Backup_and_Restore.md](04_Backup_and_Restore.md) | Backup projects, repos, and restore deleted data |
+| [01_Managing_Users_and_Permissions.md]| Add users, assign roles, and manage permissions |
+| [02_Configuring_Organization_Settings.md] | Configure organization-level policies, billing, and service connections |
+| [03_Auditing_and_Monitoring.md] | View audit logs, export activity, and monitor usage |
+| [04_Backup_and_Restore.md] | Backup projects, repos, and restore deleted data |
 
 ---
 
@@ -56,3 +56,4 @@ By completing this module, you will be able to:
 ## 🔗 Optional Lab Integration
 
 To practice Git integration, use this public repo:
+
